@@ -1,15 +1,19 @@
-# My Portfolio:
-Click on the title of the project to be directed
+# About Me
+- 📊 Statistician and Data Scientist
+- 💻 R, Python, SQL, Tableau, Excel
+- 🔭 Open to work in the Stockholm/ Uppsala area
+- 🌱 Currently studying Advanced Econometrics
+- 📫 How to reach me: www.linkedin.com/in/max-f-johansson
 
-## [Data Cleaning and Manipulation:]()
+# My Public Portfolio
+Welcome to my statistics and data science portfolio. Please click on the title of the project to be redirected:
 
 ## [Project 1: ... ](https://muddaj.github.io/Portfolio-case-1/)
 
-## [Logistic Regression: Does the S&P500 go Up or Down?]()
-![time](Assets/time.png)
+## [Project 2: ... ]()
 
-## [Logistic Regression: What Juice Brand does the Consummer Purchase?]()
+## [Project 3:]()
 
-## [Linear Regression:]()
+## [Project 4:]()
 
-## [Linear Regression:]()
+## [Project 5:]()
