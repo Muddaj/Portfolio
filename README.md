@@ -18,8 +18,9 @@ Welcome to my statistics and data science portfolio. Please click on the title o
 
 ## [Project 5:]()
 
+# Academic Reports
 
-# [Bachelor's Thesis](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-495793)
+## [Bachelor's Thesis in Statistics] (https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-495793)
 For our Bachelor's thesis in Statistics, my dear friend Michael and I investigated if Swedish polling industry suffered from bias in the 4 general elections between 2010 and 2022.
 
 ![bachelor](Assets/logo-bachelor.png)
