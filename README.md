@@ -14,10 +14,6 @@ Welcome to my statistics and data science portfolio. Please click on the title o
 
 ## [Project 3:]()
 
-## [Project 4:]()
-
-## [Project 5:]()
-
 # Academic Reports
 
 ## [Bachelor's Thesis in Statistics](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-495793)
