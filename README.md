@@ -17,3 +17,7 @@ Welcome to my statistics and data science portfolio. Please click on the title o
 ## [Project 4:]()
 
 ## [Project 5:]()
+
+# My Bachelor's Thesis
+For our Bachelor's thesis in Statistics, my dear friend Michael and I investigated if Swedish polling industry suffered from bias in the 4 general elections between 2010 and 2022. 
+![bachelor]()
