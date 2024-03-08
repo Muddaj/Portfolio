@@ -8,7 +8,7 @@
 # My Public Portfolio
 Welcome to my statistics and data science portfolio. Please click on the title of the project to be redirected:
 
-## [Project 1: ... ](https://muddaj.github.io/Portfolio-case-1/)
+## [Project 1: Daily Returns of a Financial Index from 2001 to 2005](https://muddaj.github.io/Portfolio-case-1/)
 
 ## [Project 2: ... ]()
 
