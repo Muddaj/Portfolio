@@ -12,7 +12,7 @@ Welcome to my statistics and data science portfolio. Please click on the title o
 
 ## [Project 2: Principal Component Analysis](https://muddaj.github.io/Portfolio-case-2/)
 In progress. 
-## [Project 3: Decision Tree and Random Forrest]()
+## [Project 3: Decision Tree and Random Forest]()
 Coming soon.
 # Academic Reports
 
