@@ -11,9 +11,9 @@ Welcome to my statistics and data science portfolio. Please click on the title o
 ## [Project 1: Regression - Daily Returns of a Financial Index from 2001 to 2005](https://muddaj.github.io/Portfolio-case-1/)
 
 ## [Project 2: Principal Component Analysis - Juice Consumers](https://muddaj.github.io/Portfolio-case-2/)
-
-## [Project 3:]()
-
+In progress. 
+## [Project 3: Decision Tree and Random Forrest - ]()
+Coming soon.
 # Academic Reports
 
 ## [Bachelor's Thesis in Statistics](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-495793)
