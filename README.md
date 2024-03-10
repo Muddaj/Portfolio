@@ -8,10 +8,17 @@
 # My Public Portfolio
 Welcome to my statistics and data science portfolio. Please click on the title of the project to be redirected:
 
-## [Project 1: Linear and Logistic Regression](https://muddaj.github.io/Portfolio-case-1/)
+## [Project 1: Linear and Logistic Regression - Financial Index Data](https://muddaj.github.io/Portfolio-case-1/)
 
-## [Project 2: Principal Component Analysis](https://muddaj.github.io/Portfolio-case-2/)
+## [Project 2: Logistic Regression - Juice Consumer Data](https://muddaj.github.io/Portfolio-case-2/)
 In progress. 
+
+## [Project 3: Decision Tree and Random Forest]()
+Coming soon.
+
+## [Project 4: Bootstrap]()
+Coming soon.
+
 ## [Project 3: Decision Tree and Random Forest]()
 Coming soon.
 # Academic Reports
