@@ -19,7 +19,7 @@ Coming soon.
 ## [Project 4: Bootstrap]()
 Coming soon.
 
-## [Project 3: Decision Tree and Random Forest]()
+## [Project 5: Decision Tree and Random Forest]()
 Coming soon.
 # Academic Reports
 
