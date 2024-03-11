@@ -11,10 +11,10 @@ Welcome to my statistics and data science portfolio. Please click on the title o
 ## [Project 1: Linear and Logistic Regression - Financial Index Data](https://muddaj.github.io/Portfolio-case-1/)
 ![daily-returns](Assets/proj1-logo.png)
 
-## [Project 2: Logistic Regression - Juice Consumer Data](https://muddaj.github.io/Portfolio-case-2/)
+## [Project 2: Logistic Regression vs. Logistic Lasso Regression - Juice Consumer Data](https://muddaj.github.io/Portfolio-case-2/)
 ![corr](Assets/proj2-logo.png)
 
-## [Project 3: Decision Tree and Random Forest](https://muddaj.github.io/Portfolio-case-3/)
+## [Project 3: Linear Regression vs. Regression Tree](https://muddaj.github.io/Portfolio-case-3/)
 In progress.
 
 # Academic Reports
