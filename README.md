@@ -15,7 +15,7 @@ Welcome to my statistics and data science portfolio. Please click on the title o
 ![corr](Assets/proj2-logo.png)
 
 ## [Project 3: Linear Regression vs. Regression Tree](https://muddaj.github.io/Portfolio-case-3/)
-In progress.
+![tree](Assets/proj3-logo.png)
 
 # Academic Reports
 
