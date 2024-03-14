@@ -12,7 +12,7 @@ Welcome to my statistics and data science portfolio. Please click on the title o
 ![daily-returns](Assets/blue.png)
 
 ## [Project 2: Logistic Regression vs. Logistic Lasso Regression - Juice Consumer Data](https://muddaj.github.io/Portfolio-case-2/)
-![orange](Assets/oranges.png)
+![orange](Assets/orange.png)
 
 ## [Project 3: Linear Regression vs. Regression Tree - Simulated Bank Consumer Data](https://muddaj.github.io/Portfolio-case-3/)
 ![tree](Assets/proj3-logo.png)
