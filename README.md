@@ -9,9 +9,11 @@
 Here are some brief projects of mine where I apply various statistical and machine learning methods to data. 
 
 ## [2 Hypothesis Tests](https://muddaj.github.io/Portfolio-Hypothesis-Testing/)
+I perform two hypothesis tests: First, I test if the mean income of the individuals is significantly different from 40, then I test if the mean income of unmarried individuals is significantly different from the mean income of married individuals. A significance level of 5% is used. 
 ![2 Hypothesis Tests](Assets/a1.png)
 
 ## [Linear and Logistic Predictions](https://muddaj.github.io/Portfolio-case-1/)
+I use data of a financial index between 2001 and 2005 to predict the daily return and the direction of the daily return using daily returns of the prior days as well as the trading volume.  
 ![](Assets/a2.png)
 
 ## [Logistic Lasso Regression Predictions](https://muddaj.github.io/Portfolio-case-2/)
