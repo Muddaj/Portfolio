@@ -5,6 +5,10 @@
 - 🌱 Currently studying Advanced Econometrics
 - 📫 How to reach me: www.linkedin.com/in/max-f-johansson
 
+<p align="center">
+  <img src="Assets/logo3.jpg" alt="Profile"/>
+</p>
+
 # My Public Portfolio
 Here are some brief projects of mine where I apply various statistical and machine learning methods to data. 
 
