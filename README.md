@@ -11,13 +11,11 @@ Here are some brief projects of mine where I apply various statistical and machi
 ## [Project: Hypothesis Tests](https://muddaj.github.io/Portfolio-Hypothesis-Testing/)
 
 ## [Project: Linear and Logistic Model Predictions](https://muddaj.github.io/Portfolio-case-1/)
-![daily-returns](Assets/graph.png)
 
 ## [Project: Logistic Lasso Regression](https://muddaj.github.io/Portfolio-case-2/)
-![orange](Assets/orange.png)
 
 ## [Project: Regression Tree Model](https://muddaj.github.io/Portfolio-case-3/)
-![tree](Assets/tree.png)
+
 
 # Academic Reports
 
