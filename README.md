@@ -9,7 +9,7 @@
 Here are some brief projects of mine where I apply various statistical and machine learning methods to data. 
 
 <p align="center">
-  ## [2 Hypothesis Tests](https://muddaj.github.io/Portfolio-Hypothesis-Testing/)
+  ##[2 Hypothesis Tests](https://muddaj.github.io/Portfolio-Hypothesis-Testing/)
 </p>
 
 <p align="center">
