@@ -6,17 +6,17 @@
 - 📫 How to reach me: www.linkedin.com/in/max-f-johansson
 
 # My Public Portfolio
-Welcome to my statistics and data science portfolio. Please click on the title of the project to be redirected:
+Here are some brief projects of mine where I apply various statistical and machine learning methods to data. 
 
-## [Hypothesis Tests](https://muddaj.github.io/Portfolio-Hypothesis-Testing/)
+## [Project: Hypothesis Tests](https://muddaj.github.io/Portfolio-Hypothesis-Testing/)
 
-## [Linear and Logistic Regression - Financial Index Data](https://muddaj.github.io/Portfolio-case-1/)
+## [Project: Linear and Logistic Model Predictions](https://muddaj.github.io/Portfolio-case-1/)
 ![daily-returns](Assets/graph.png)
 
-## [Logistic Regression vs. Logistic Lasso Regression - Juice Consumer Data](https://muddaj.github.io/Portfolio-case-2/)
+## [Project: Logistic Lasso Regression](https://muddaj.github.io/Portfolio-case-2/)
 ![orange](Assets/orange.png)
 
-## [Linear Regression vs. Regression Tree - Simulated Bank Consumer Data](https://muddaj.github.io/Portfolio-case-3/)
+## [Project: Regression Tree Model](https://muddaj.github.io/Portfolio-case-3/)
 ![tree](Assets/tree.png)
 
 # Academic Reports
