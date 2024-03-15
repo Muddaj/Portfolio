@@ -1,4 +1,7 @@
-title: Max Johansson
-logo: Assets/logo3.jpg
+title: Github Portfolio
+author: 
+  name: Max Johansson
+  email: max.f.johansson@outlook.com
+description: In this portfolio I collect some of my brief public projects in Statistics and Data science. 
 show_downloads: FALSE
 theme: jekyll-theme-Dinky
