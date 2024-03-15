@@ -8,13 +8,17 @@
 # My Public Portfolio
 Here are some brief projects of mine where I apply various statistical and machine learning methods to data. 
 
-## [2 Hypothesis Tests](https://muddaj.github.io/Portfolio-Hypothesis-Testing/)
+<p align="center">
+  ## [2 Hypothesis Tests](https://muddaj.github.io/Portfolio-Hypothesis-Testing/)
+</p>
+
+<p align="center">
 In this project I perform two hypothesis tests: First, I test if the mean income of the individuals is significantly different from 40, then I test if the mean income of unmarried individuals is significantly different from the mean income of married individuals. A significance level of 5% is used. 
+</p>
+
 <p align="center">
   <img src="Assets/a1.png" alt="2 Hypothesis Tests"/>
 </p>
-
-![2 Hypothesis Tests](Assets/a1.png)
 
 ## [Linear and Logistic Regression](https://muddaj.github.io/Portfolio-case-1/)
 In this project I predict the daily return and the direction a financial index between 2001 and 2005. I use daily returns of the prior days as well as the trading volume of the day as predictors. To predict the daily return I use linear regression and to predict the direction of the daily return I use logistic regression.  
