@@ -9,6 +9,7 @@
 Here are some brief projects of mine where I apply various statistical and machine learning methods to data. 
 
 ## [Project: Hypothesis Tests](https://muddaj.github.io/Portfolio-Hypothesis-Testing/)
+![2 Hypothesis Tests](Assets/HT.png)
 
 ## [Project: Linear and Logistic Model Predictions](https://muddaj.github.io/Portfolio-case-1/)
 
