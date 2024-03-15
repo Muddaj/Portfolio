@@ -8,13 +8,9 @@
 # My Public Portfolio
 Here are some brief projects of mine where I apply various statistical and machine learning methods to data. 
 
-<p align="center">
-  ##[2 Hypothesis Tests](https://muddaj.github.io/Portfolio-Hypothesis-Testing/)
-</p>
+##[2 Hypothesis Tests](https://muddaj.github.io/Portfolio-Hypothesis-Testing/)
 
-<p align="center">
 In this project I perform two hypothesis tests: First, I test if the mean income of the individuals is significantly different from 40, then I test if the mean income of unmarried individuals is significantly different from the mean income of married individuals. A significance level of 5% is used. 
-</p>
 
 <p align="center">
   <img src="Assets/a1.png" alt="2 Hypothesis Tests"/>
