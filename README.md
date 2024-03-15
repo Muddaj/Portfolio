@@ -8,15 +8,17 @@
 # My Public Portfolio
 Here are some brief projects of mine where I apply various statistical and machine learning methods to data. 
 
-## [Project: Hypothesis Tests](https://muddaj.github.io/Portfolio-Hypothesis-Testing/)
-![2 Hypothesis Tests](Assets/HT.png)
+## [2 Hypothesis Tests](https://muddaj.github.io/Portfolio-Hypothesis-Testing/)
+![2 Hypothesis Tests](Assets/a1.png)
 
-## [Project: Linear and Logistic Model Predictions](https://muddaj.github.io/Portfolio-case-1/)
+## [Linear and Logistic Predictions](https://muddaj.github.io/Portfolio-case-1/)
+![](Assets/a2.png)
 
-## [Project: Logistic Lasso Regression](https://muddaj.github.io/Portfolio-case-2/)
+## [Logistic Lasso Regression Predictions](https://muddaj.github.io/Portfolio-case-2/)
+![Logistic Lasso Regression](Assets/a3.png)
 
-## [Project: Regression Tree Model](https://muddaj.github.io/Portfolio-case-3/)
-
+## [Regression Tree Predictions](https://muddaj.github.io/Portfolio-case-3/)
+![Regression Tree Predictions](Assets/a4.png)
 
 # Academic Reports
 
