@@ -10,6 +10,9 @@ Here are some brief projects of mine where I apply various statistical and machi
 
 ## [2 Hypothesis Tests](https://muddaj.github.io/Portfolio-Hypothesis-Testing/)
 In this project I perform two hypothesis tests: First, I test if the mean income of the individuals is significantly different from 40, then I test if the mean income of unmarried individuals is significantly different from the mean income of married individuals. A significance level of 5% is used. 
+<p align="center">
+  <img src="Assets/a1.png" alt="2 Hypothesis Tests"/>
+</p>
 
 ![2 Hypothesis Tests](Assets/a1.png)
 
