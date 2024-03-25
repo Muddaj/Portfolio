@@ -43,5 +43,5 @@ In this project I visualize some data on the world population between 1952 up to
 For our Bachelor's thesis in Statistics, my dear friend Michael and I investigated if Swedish polling industry suffered from bias in the 4 general elections between 2010 and 2022. We used the last poll per major polling house and political party as an estimate, then considered the number of underestimations or overestimations per party as a potential indication of polling industry bias. In the paper, we also performed a simulation.
 
 <p align="left">
-  <img src="Assets/b1.png" alt="Bachelor Statistics"/>
+  <img src="Assets/poll.png" alt="Bachelor Statistics"/>
 </p>
