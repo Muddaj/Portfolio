@@ -20,21 +20,21 @@ In this project I perform two hypothesis tests: First, I test if the mean income
 In this project I predict the daily return and the direction a financial index between 2001 and 2005. I use daily returns of the prior days as well as the trading volume of the day as predictors. To predict the daily return I use linear regression and to predict the direction of the daily return I use logistic regression.  
 
 <p align="left">
-  <img src="Assets/a2.png" alt="Linear and Logistic Regression"/>
+  <img src="Assets/boxplot.png" alt="Linear and Logistic Regression"/>
 </p>
 
 ## [Logistic Lasso Regression](https://muddaj.github.io/Portfolio-case-2/)
 In this project I predict which of 2 brands of juice customers purchase based on customer characteristics. I first use logistic regression, and then logistic Lasso penalized regression since there are high correlations among a number of predictors.
 
 <p align="left">
-  <img src="Assets/a3.png" alt="Logistic Lasso Regression"/>
+  <img src="Assets/correlation.png" alt="Logistic Lasso Regression"/>
 </p>
 
 ## [Data Visualization](https://muddaj.github.io/Data-Visualization/)
 In this project I visualize some data on the world population between 1952 up to 2007. I visualize how life expectancy has evolved over time in the world as well as per continent. 
 
 <p align="left">
-  <img src="Assets/a5.png" alt="Data-viz"/>
+  <img src="Assets/densityplot.png" alt="Data-viz"/>
 </p>
 
 # Academic Reports
