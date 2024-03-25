@@ -30,11 +30,11 @@ In this project I predict which of 2 brands of juice customers purchase based on
   <img src="Assets/a3.png" alt="Logistic Lasso Regression"/>
 </p>
 
-## [Regression Tree](https://muddaj.github.io/Portfolio-case-3/)
-In this project I predict the rating of a customer based on customer characteristics. I use a linear regression model as well a regression tree model. 
+## [Data Visualization](https://muddaj.github.io/Data-Visualization/)
+In this project I visualize some data on the world population between 1952 up to 2007. I visualize how life expectancy has evolved over time in the world as well as per continent. 
 
 <p align="left">
-  <img src="Assets/a4.png" alt="Regression Tree"/>
+  <img src="Assets/a5.png" alt="Data-viz"/>
 </p>
 
 # Academic Reports
