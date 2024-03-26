@@ -8,6 +8,13 @@
 # My Public Portfolio
 Here are some brief projects of mine where I apply various statistical and machine learning methods to data. By clicking on the title of the project you will be redirected to it.
 
+## [Data Visualization](https://muddaj.github.io/Data-Visualization/)
+In this project I visualize some data on the world population between 1952 up to 2007. I visualize how life expectancy has evolved over time in the world as well as per continent. 
+
+<p align="left">
+  <img src="Assets/densityplot.png" alt="Data-viz"/>
+</p>
+
 ## [2 Hypothesis Tests](https://muddaj.github.io/Portfolio-Hypothesis-Testing/)
 
 In this project I perform two hypothesis tests: First, I test if the mean income of the individuals is significantly different from 40, then I test if the mean income of unmarried individuals is significantly different from the mean income of married individuals.
@@ -21,13 +28,6 @@ In this project I predict which of 2 brands of juice customers purchase based on
 
 <p align="left">
   <img src="Assets/correlation.png" alt="Logistic Lasso Regression"/>
-</p>
-
-## [Data Visualization](https://muddaj.github.io/Data-Visualization/)
-In this project I visualize some data on the world population between 1952 up to 2007. I visualize how life expectancy has evolved over time in the world as well as per continent. 
-
-<p align="left">
-  <img src="Assets/densityplot.png" alt="Data-viz"/>
 </p>
 
 # Academic Reports
