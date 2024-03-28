@@ -17,7 +17,7 @@ In this project I visualize some data on the world population between 1952 up to
 
 ## [2 Hypothesis Tests](https://muddaj.github.io/Portfolio-Hypothesis-Testing/)
 
-In this project I perform two hypothesis tests: First, I test if the mean income of the individuals is significantly different from 40, then I test if the mean income of unmarried individuals is significantly different from the mean income of married individuals.
+In this project I perform two hypothesis tests: First, I test if the mean income of the individuals is significantly different from 40.000 $, then I test if the mean income of unmarried individuals is significantly different from the mean income of married individuals.
 
 <p align="left">
   <img src="Assets/Histogram.png" alt="2 Hypothesis Tests"/>
