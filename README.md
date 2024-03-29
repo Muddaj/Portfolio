@@ -23,7 +23,7 @@ In this project I perform two hypothesis tests: First, I test if the mean income
   <img src="Assets/Histogram.png" alt="2 Hypothesis Tests"/>
 </p>
 
-## [Logistic Lasso Regression](https://muddaj.github.io/Portfolio-case-2/)
+## [Logistic Lasso Regression](https://muddaj.github.io/Logistic-Regression/)
 In this project I predict which of 2 brands of juice customers purchase based on customer characteristics. I first use logistic regression, and then logistic Lasso penalized regression since there are high correlations among a number of predictors.
 
 <p align="left">
