@@ -1,4 +1,4 @@
-# Max Johansson - Showcase Portfolio
+# About the Page
 
 Welcome to my Github Portfolio Page, 
 
