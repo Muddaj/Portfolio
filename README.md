@@ -41,14 +41,14 @@ In this project I predict which of 2 brands of juice customers purchase based on
 # Academic Reports
 
 ## [Bachelor's Thesis in Statistics](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-495793)
-For our Bachelor's thesis in Statistics, my dear friend Michael Debebe and I investigate if the Swedish polling industry may have suffered from bias in the 4 general elections between 2010 and 2022. We used the last poll per major polling house and political party as an estimate, then considered the number of underestimations or overestimations per party as a potential indication of polling industry bias. In the paper, we also performed a simulation. The report is written in English. 
+For our Bachelor's thesis in Statistics, we investigate if the Swedish polling industry may have suffered from bias in the 4 general elections between 2010 and 2022. We used the last poll per major polling house and political party as an estimate, then considered the number of underestimations or overestimations per party as a potential indication of polling industry bias. In the paper, we also performed a simulation. The report is written in English. 
 
 <p align="left">
   <img src="Assets/poll.png" alt="Bachelor Statistics"/>
 </p>
 
 ## [Bachelor's Thesis in Business Studies](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-468117)
-For our Bachelor's thesis in Business Studies, me and Jeff Börlum investigate the relationship between stock returns (outcome variable) and discretionary accruals, non-discretionary accruals and operating cash flows (predictors). The study is limited to stocks in the Nordics (Sweden, Norway, Denmark, Finland and Iceland) for the years 2015 to 2020, and is written in Swedish. 
+For our Bachelor's thesis in Business Studies, we investigate the relationship between stock returns (outcome variable) and discretionary accruals, non-discretionary accruals and operating cash flows (predictors). The study is limited to stocks in the Nordics (Sweden, Norway, Denmark, Finland and Iceland) for the years 2015 to 2020, and is written in Swedish. 
 
 
 
