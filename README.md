@@ -2,11 +2,10 @@
 - 📊 Statistician and Data Scientist
 - 💻 R, Python, SQL, Tableau, Excel
 - 🔭 Open to work in the Stockholm/ Uppsala area
-- 🌱 Currently studying Advanced Econometrics
+- 🌱 Currently studying Strucural Equation Models and Causal Inference.
 - 📫 How to reach me: www.linkedin.com/in/max-f-johansson
 
 # My Public Portfolio
-The following are some of my public projects in statistics. By clicking on the title of the project you will be redirected to it.
 
 ## [Data Visualization](https://muddaj.github.io/Data-Visualization/)
 In this project I visualize some data on the world population between 1952 up to 2007. I visualize how life expectancy has evolved over time in the world as well as per continent. 
