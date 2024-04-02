@@ -7,6 +7,13 @@
 
 # My Public Portfolio
 
+Welcome to my Github Portfolio Page, 
+
+While you will find some of my public showcase projects here, I want to highlight that I have chosen to keep most of my projects private. Should you require further insight into my capabilities, please feel frree to reach out to me directly. I would be more than happy to provide additional information or arrange a private demonstration tailored to your requirements. 
+
+Sincerely, 
+Max Johansson
+
 ## [Data Visualization](https://muddaj.github.io/Data-Visualization/)
 In this project I visualize some data on the world population between 1952 up to 2007. I visualize how life expectancy has evolved over time in the world as well as per continent. 
 
