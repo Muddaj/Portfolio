@@ -4,16 +4,15 @@ Welcome to my Github Portfolio Page!
 
 While you will find some of my public showcase projects here, I want to highlight that I have chosen to keep most of my projects private. Should you require further insight into my capabilities, please feel free to reach out to me directly. I would be more than happy to provide additional information or arrange a private demonstration tailored to your requirements. 
 
-Sincerely, 
-Max Johansson
-
 # About Me
-- 📊 Statistician and Data Scientist
-- 💻 R, Python, SQL, Tableau, Excel
-- 🔭 Open to work in the Stockholm/ Uppsala area
-- 🌱 Currently studying Strucural Equation Models and Causal Inference.
-- 📫 How to reach me: www.linkedin.com/in/max-f-johansson
+- 📊 Aspiring:      Statistician and Data Scientist / Analyst
+- 💻 Software:      R, Python, SQL, Tableau, Excel
+- 🔭 Open for:      work in the Stockholm/ Uppsala area
+- 🌱 Currently:     studying to my Masters Degree in Statistics
+- 📫 Contact me:    max.f.johansson@outlook.com
+- 🌍 Linkedin:      www.linkedin.com/in/max-f-johansson
 
+- 
 # My Public Portfolio
 
 ## [Data Visualization](https://muddaj.github.io/Data-Visualization/)
