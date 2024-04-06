@@ -14,7 +14,7 @@ While you will find some of my public showcase projects here, I want to highligh
 
 # My Public Portfolio
 
-## [Data Visualization](https://muddaj.github.io/Data-Visualization/)
+## [Data Visualization](https://muddaj.github.io/Project-1/)
 In this project I visualize some data on the world population between 1952 up to 2007. I visualize how life expectancy has evolved over time in the world as well as per continent. 
 
 <p align="left">
