@@ -12,7 +12,6 @@ While you will find some of my public showcase projects here, I want to highligh
 - 📫 Contact me:    max.f.johansson@outlook.com
 - 🌍 Linkedin:      www.linkedin.com/in/max-f-johansson
 
-- 
 # My Public Portfolio
 
 ## [Data Visualization](https://muddaj.github.io/Data-Visualization/)
