@@ -1,8 +1,8 @@
 # About the Page
 
-Welcome to my Github Portfolio Page, 
+Welcome to my Github Portfolio Page!
 
-While you will find some of my public showcase projects here, I want to highlight that I have chosen to keep most of my projects private. Should you require further insight into my capabilities, please feel frree to reach out to me directly. I would be more than happy to provide additional information or arrange a private demonstration tailored to your requirements. 
+While you will find some of my public showcase projects here, I want to highlight that I have chosen to keep most of my projects private. Should you require further insight into my capabilities, please feel free to reach out to me directly. I would be more than happy to provide additional information or arrange a private demonstration tailored to your requirements. 
 
 Sincerely, 
 Max Johansson
