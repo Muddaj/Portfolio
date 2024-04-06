@@ -14,14 +14,14 @@ While you will find some of my public showcase projects here, I want to highligh
 
 # My Public Portfolio
 
-## [Project 1](https://muddaj.github.io/Project-1/)
+## [Project 1 - Visualization and Linear Regression](https://muddaj.github.io/Project-1/)
 In this project I visualize some data on the world population between 1952 up to 2007. I visualize how life expectancy and GDP/ Capita has evolved over time in the world as well as per continent. I also investigate the relationship using a linear regression model, accompanied by a residual analysis. 
 
 <p align="left">
   <img src="Assets/densityplot.png" alt="Data-viz"/>
 </p>
 
-## [2 Hypothesis Tests](https://muddaj.github.io/Portfolio-Hypothesis-Testing/)
+## [Project 2 - Hypothesis Testing](https://muddaj.github.io/Project-2/)
 
 In this project I perform two hypothesis tests: First, I test if the mean income of the individuals is significantly different from 40.000 $, then I test if the mean income of unmarried individuals is significantly different from the mean income of married individuals.
 
@@ -29,7 +29,7 @@ In this project I perform two hypothesis tests: First, I test if the mean income
   <img src="Assets/Histogram.png" alt="2 Hypothesis Tests"/>
 </p>
 
-## [Logistic Lasso Regression](https://muddaj.github.io/Logistic-Regression/)
+## [Project 3 - Logistic Lasso Regression](https://muddaj.github.io/project-3/)
 In this project I predict which of 2 brands of juice customers purchase based on customer characteristics. I first use logistic regression, and then logistic Lasso penalized regression since there are high correlations among a number of predictors.
 
 <p align="left">
